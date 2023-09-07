@@ -1,0 +1,15 @@
+/Users/mayconfsousa/Developer/csharp/Pti/bin/Debug/net7.0/Pti
+/Users/mayconfsousa/Developer/csharp/Pti/bin/Debug/net7.0/Pti.deps.json
+/Users/mayconfsousa/Developer/csharp/Pti/bin/Debug/net7.0/Pti.runtimeconfig.json
+/Users/mayconfsousa/Developer/csharp/Pti/bin/Debug/net7.0/Pti.dll
+/Users/mayconfsousa/Developer/csharp/Pti/bin/Debug/net7.0/Pti.pdb
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.csproj.AssemblyReference.cache
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.AssemblyInfoInputs.cache
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.AssemblyInfo.cs
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.csproj.CoreCompileInputs.cache
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.dll
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/refint/Pti.dll
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.pdb
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/Pti.genruntimeconfig.cache
+/Users/mayconfsousa/Developer/csharp/Pti/obj/Debug/net7.0/ref/Pti.dll
