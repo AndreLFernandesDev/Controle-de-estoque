@@ -37,9 +37,9 @@
                     break;
 
                 case "2":
+                    Console.WriteLine("LISTA DE PRODUTOS");
                     for (int i = 0; i < Estoque.Count; i++)
                     {
-                        Console.WriteLine("LISTA DE PRODUTOS");
                         int posProduto = i + 1;
                         Produto x = Estoque[i];
                         Console.WriteLine("{0}-Nome produto: {1} | Valor: {2} R$ | Tipo: {3} | Estoque: {4}", posProduto, x.NomeProduto,
